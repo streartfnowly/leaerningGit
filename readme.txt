@@ -1,2 +1,2 @@
 test git change`
-tracks changes.
+tracks changes of files. 
